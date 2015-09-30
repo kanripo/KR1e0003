@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:12.051709
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 36
+#+PROPERTY: FILE SB05n0583-036春秋正義-卷三十六.
 <pb:KR1e0003_SBCK_036-1a>¶
 春秋正義卷第三十六　哀公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔頴逹　等奉¶
@@ -517,4 +521,3 @@
 <pb:KR1e0003_SBCK_036-17a>¶
 以下原闕¶
 <pb:KR1e0003_SBCK_036-17b>¶
-

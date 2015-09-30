@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:12.001420
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 35
+#+PROPERTY: FILE SB05n0583-035春秋正義-卷三十五.
 <pb:KR1e0003_SBCK_035-1a>¶
 春秋正義卷第三十五　哀公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　穎逹　等奉¶
@@ -584,4 +588,3 @@
 &KR0082;以田賦也¶
 春秋正義卷第三十五¶
 　　　　　　　　　計一万三千五百九十四字¶
-

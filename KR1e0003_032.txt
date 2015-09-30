@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.848623
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 32
+#+PROPERTY: FILE SB05n0583-032春秋正義-卷三十二.
 <pb:KR1e0003_SBCK_032-1a>¶
 春秋正義卷第三十二　昭公¶
 　　　国子祭酒上護軍曲阜縣開国子臣孔　頴逹　等奉¶
@@ -697,4 +701,3 @@
 春秋正義卷第三十二¶
 　　　　　　　　　　計一万六千八字¶
 <pb:KR1e0003_SBCK_032-23a>¶
-

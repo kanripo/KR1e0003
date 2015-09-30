@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.707848
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB05n0583-011春秋正義-卷十一.
 <pb:KR1e0003_SBCK_011-1a>¶
 春秋正義卷第十一　僖公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　穎達等奉¶
@@ -546,6 +550,8 @@
 知其然否¶
 春秋正義卷第十一¶
 <pb:KR1e0003_SBCK_011-18a>¶
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB05n0584-011春秋胡氏傳-卷十一.
 <pb:KR1e0003_SBCK_011-1a>¶
 春秋傳卷第十一¶
 　　　　僖公上¶
@@ -888,4 +894,3 @@
 　&KR0076;滅温皆不書伐滅黃而書伐者罪&KR0074;公旣與㑹盟而又不能救¶
 也¶
 <pb:KR1e0003_SBCK_011-12b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.458307
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0583-006春秋正義-卷六.
 <pb:KR1e0003_SBCK_006-1a>¶
 春秋正義卷第六　桓公¶
 　　國子祭酒上護軍曲阜縣開國子臣孔　颖達　等奉¶
@@ -675,6 +679,8 @@
 年夫人生子与&KR0074;公同日故名之曰同是知同物为同日也言物¶
 &KR0011;者辨此以為&KR0011;命也¶
 <pb:KR1e0003_SBCK_006-22a>¶
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0584-006春秋胡氏傳-卷六.
 <pb:KR1e0003_SBCK_006-1a>¶
 春秋傳卷第六¶
 　　　　&KR0074;公下¶
@@ -910,4 +916,3 @@
 　國而討于是也夫&KR0074;公之讎在齊則外也隱公之讎在魯則内也¶
 在外者不責其踰國固有任之者矣在内者討于是此春秋之法¶
 也故十八年書王而&KR0074;公書葬惟可與權者其知之矣¶
-

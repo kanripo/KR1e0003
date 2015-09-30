@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.324600
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB05n0583-022春秋正義-卷二十二.
 <pb:KR1e0003_SBCK_022-1a>¶
 春秋正義卷第二十二　襄公¶
 　　　国子祭酒上護軍曲阜縣開國子臣孔　穎達等奉¶
@@ -846,6 +850,8 @@
 春秋正義卷第二十二¶
 　　　　　　　　　　　計一万九千四百四十四字¶
 <pb:KR1e0003_SBCK_022-28b>¶
+#+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB05n0584-022春秋胡氏傳-卷二十二.
 <pb:KR1e0003_SBCK_022-1a>¶
 春秋傳卷第二十二¶
 　　　　襄公中¶
@@ -1068,4 +1074,3 @@
 &KR0051;人執衛&KR0478;喜八月壬午許男&KR0478;卒于楚冬楚子蔡侯陳侯伐鄭葬¶
 許靈公¶
 <pb:KR1e0003_SBCK_022-8b>¶
-

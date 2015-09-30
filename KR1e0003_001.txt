@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.200392
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0583-001春秋正義-卷一.
 <pb:KR1e0003_SBCK_001-1a>¶
 今奉&KR0217;刪定拠以為本其有踈漏以沈氏&KR0024;焉若两義俱違則特¶
 申短見虽課率庸鄙仍不敢自專謹与朝請大夫国子博士臣谷¶
@@ -779,6 +783,8 @@
 <pb:KR1e0003_SBCK_001-26b>¶
 以下原闕¶
 <pb:KR1e0003_SBCK_001-27a>¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0584-001春秋胡氏傳-卷一.
 <pb:KR1e0003_SBCK_001-1a>¶
 春秋傳卷第一¶
 　　左朝散郎充徽猷閣待制提舉江州太平觀賜紫金魚袋臣胡安國奉¶
@@ -1031,4 +1037,3 @@
 　而不葬聖人所削春秋之法也故曰知我者其惟春秋乎罪我者¶
 　其惟春秋乎¶
 <pb:KR1e0003_SBCK_001-9b>¶
-

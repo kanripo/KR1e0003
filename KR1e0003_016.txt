@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.990052
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB05n0583-016春秋正義-卷十六.
 <pb:KR1e0003_SBCK_016-1a>¶
 春秋正義卷第十六　宣公¶
 　國子祭酒上護軍曲阜縣開国子臣孔穎逹　等奉¶
@@ -702,6 +706,8 @@
 此皆傳上下相包通之義也¶
 春秋正義卷第十六¶
 　　　　　　　　　計一万六千一百一十一字¶
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB05n0584-016春秋胡氏傳-卷十六.
 <pb:KR1e0003_SBCK_016-1a>¶
 春秋傳卷第十六¶
 　　　　宣公上¶
@@ -959,4 +965,3 @@
 　愼其所感也¶
 <pb:KR1e0003_SBCK_016-9b>¶
 冬十月¶
-

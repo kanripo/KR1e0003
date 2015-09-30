@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.309709
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0583-003春秋正義-卷三.
 <pb:KR1e0003_SBCK_003-1a>¶
 巳姓不知誰賜之姓者十一卋兹丕公方見春秋共公以下微弱¶
 不復見四卋楚滅之向則唯此見經不能知其終始　注向小至¶
@@ -748,6 +752,8 @@
 春秋正義卷第三　計一万七千九百八字¶
 <pb:KR1e0003_SBCK_003-24b>¶
 <pb:KR1e0003_SBCK_003-24b>¶
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0584-003春秋胡氏傳-卷三.
 <pb:KR1e0003_SBCK_003-1a>¶
 春秋傳卷第三¶
 　　　　隠公下¶
@@ -958,4 +964,3 @@
 　&KR0011;而長其指意無窮以一年之事攷之則二百四十二年之行事¶
 　皆可見矣以爲經丗之典撥亂反正之書百王不易之大法豈不¶
 　信夫¶
-

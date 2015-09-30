@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.421753
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB05n0583-024春秋正義-卷二十四.
 <pb:KR1e0003_SBCK_024-1a>¶
 春秋正義卷第二十四　襄公¶
 　　國子祭酒上護軍曲阜縣開国子臣孔　穎達　等奉¶
@@ -721,6 +725,8 @@
 　　　　得圖書宻假鈔　本以為酬¶
 <pb:KR1e0003_SBCK_024-24a>¶
 <pb:KR1e0003_SBCK_024-25a>¶
+#+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB05n0584-024春秋胡氏傳-卷二十四.
 <pb:KR1e0003_SBCK_024-1a>¶
 春秋傳卷第二十四¶
 　　　　昭公上¶
@@ -1026,4 +1032,3 @@
 　爛不可壅而收之皆失信棄義之明驗也春秋謹嚴於此制治未¶
 　亂㧞本塞源之意豈曰過乎¶
 <pb:KR1e0003_SBCK_024-11b>¶
-

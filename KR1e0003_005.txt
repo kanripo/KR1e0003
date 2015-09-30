@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.408493
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0583-005春秋正義-卷五.
 <pb:KR1e0003_SBCK_005-1a>¶
 春秋正義卷第五　&KR0074;公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔穎達　等奉¶
@@ -583,6 +587,8 @@
 春秋正義卷第五¶
 　　　　　　　　　　　計一万三千三百七十五字¶
 <pb:KR1e0003_SBCK_005-19b>¶
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0584-005春秋胡氏傳-卷五.
 <pb:KR1e0003_SBCK_005-1a>¶
 春秋傳卷第五¶
 　　　　&KR0074;公中¶
@@ -782,4 +788,3 @@
 　討伸天下之大義也今特以私忿小怨親帥其師戰于魯境尚爲¶
 　知&KR0011;也哉此春秋之所必誅而不以聽也故以三國爲主而書來¶
 　戰于郎鄭人主兵而首齊猶衛州吁主兵而先宋¶
-

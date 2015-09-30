@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.580541
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB05n0583-027春秋正義-卷二十七.
 <pb:KR1e0003_SBCK_027-1a>¶
 恒北嶽恒山也衡南嶽衡山也釋例土地名云東岳泰山奉高縣¶
 泰山也南岳長沙湘南縣衡山也西嶽弘農華隂縣西南華山也¶
@@ -858,6 +862,8 @@
 以下原闕¶
 <pb:KR1e0003_SBCK_027-29a>¶
 <pb:KR1e0003_SBCK_027-30a>¶
+#+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB05n0584-027春秋胡氏傳-卷二十七.
 <pb:KR1e0003_SBCK_027-1a>¶
 春秋傳卷第二十七¶
 　　　　定公上¶
@@ -1011,4 +1017,3 @@
 <pb:KR1e0003_SBCK_027-6a>¶
 六月葬鄭獻公秋齊侯衛侯次于五氏秦伯卒冬葬秦哀公¶
 <pb:KR1e0003_SBCK_027-6b>¶
-

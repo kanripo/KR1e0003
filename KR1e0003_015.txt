@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.931166
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB05n0583-015春秋正義-卷十五.
 <pb:KR1e0003_SBCK_015-1a>¶
 春秋正義卷第十五　文公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　頴逹　等奉¶
@@ -764,6 +768,8 @@
 　　　　　　　　　計一万七千九百三十一字¶
 <pb:KR1e0003_SBCK_015-26a>¶
 <pb:KR1e0003_SBCK_015-27a>¶
+#+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB05n0584-015春秋胡氏傳-卷十五.
 <pb:KR1e0003_SBCK_015-1a>¶
 春秋傳卷第十五¶
 　　　　丈公下¶
@@ -1029,4 +1035,3 @@
 其無罪異於孫于邾者而魯國臣子殺嫡立庶敬嬴宣公不能事¶
 主君存適母其罪不書而並見矣¶
 季孫行父如齊莒弑其君庶其¶
-

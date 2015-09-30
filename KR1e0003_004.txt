@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.362102
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0583-004春秋正義-卷四.
 <pb:KR1e0003_SBCK_004-1a>¶
 春秋正義卷第四　隐公¶
 　　国子&KR0021;酒上護軍曲阜縣開国子臣孔　穎逹奉¶
@@ -545,6 +549,8 @@
 則无弑君之人是其進退无拠也¶
 春秋正義卷第四¶
 　　　　　　　　計一万二千五百三十四字¶
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0584-004春秋胡氏傳-卷四.
 <pb:KR1e0003_SBCK_004-1a>¶
 春秋傳卷第四¶
 　　　　&KR0074;公上¶
@@ -769,4 +775,3 @@
 　義天下之大倫無所輕重糾以旣封故兼稱爵見春秋責相之意¶
 　也¶
 <pb:KR1e0003_SBCK_004-8b>¶
-

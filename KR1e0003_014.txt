@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.875874
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB05n0583-014春秋正義-卷十四.
 <pb:KR1e0003_SBCK_014-1a>¶
 春秋正義卷第十四　文公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔穎達　等奉¶
@@ -735,6 +739,8 @@
 無正心者以謹&KR0217;彼无中正之人言小罪尚不赦則大罪不敢为¶
 也¶
 春秋正義卷第十四¶
+#+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB05n0584-014春秋胡氏傳-卷十四.
 <pb:KR1e0003_SBCK_014-1a>¶
 春秋傳卷第十四¶
 　　　　文公上¶
@@ -998,4 +1004,3 @@
 　兵者不能其官至於見殺守土者不能其官至於出奔而其君不¶
 　免失身見弑之禍冝矣¶
 <pb:KR1e0003_SBCK_014-10a>¶
-

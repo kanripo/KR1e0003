@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.558429
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0583-008春秋正義-卷八.
 <pb:KR1e0003_SBCK_008-1a>¶
 春秋正義卷第八　荘公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　穎逹　等奉¶
@@ -686,6 +690,8 @@
 也伹不知今&KR0074;公有母以否故杜不明言淂失¶
 春秋正義卷第八¶
 　　　　　　　　　　計一万六千一百五字¶
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0584-008春秋胡氏傳-卷八.
 <pb:KR1e0003_SBCK_008-1a>¶
 春秋傳第八¶
 　　　莊公中¶
@@ -940,4 +946,3 @@
 　免難之䇿爲齊宋畫講好之計身在境外而權其國家爲春秋予¶
 　之故稱公子非矣¶
 <pb:KR1e0003_SBCK_008-9b>¶
-

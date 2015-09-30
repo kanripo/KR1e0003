@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.055473
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB05n0583-017春秋正義-卷十七.
 <pb:KR1e0003_SBCK_017-1a>¶
 春秋正義卷第十七　宣下¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　潁逹　等奉¶
@@ -710,6 +714,8 @@
 <pb:KR1e0003_SBCK_017-24a>¶
 春秋正義卷第十七¶
 　　　　　　　　計一万六千五百五十一字¶
+#+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB05n0584-017春秋胡氏傳-卷十七.
 <pb:KR1e0003_SBCK_017-1a>¶
 春秋傳卷第十七¶
 　　　　宣公中¶
@@ -975,4 +981,3 @@
 　人於陳而特書曰納納者不受而強納之者也爲楚莊者冝柰何¶
 瀦徴舒之宮封&KR0165;冶之墓尸孔寧儀行父于朝謀於陳衆定其君¶
 　而去其庶幾乎¶
-

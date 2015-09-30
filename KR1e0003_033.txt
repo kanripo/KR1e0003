@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.905881
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 33
+#+PROPERTY: FILE SB05n0583-033春秋正義-卷三十三.
 <pb:KR1e0003_SBCK_033-1a>¶
 春秋正義卷第三十三　㝎公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　穎逹　等奉¶
@@ -530,4 +534,3 @@
 五日¶
 春秋正義卷第三十三¶
 <pb:KR1e0003_SBCK_033-17b>¶
-

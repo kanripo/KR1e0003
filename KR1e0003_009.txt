@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.605982
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB05n0583-009春秋正義-卷九.
 <pb:KR1e0003_SBCK_009-1a>¶
 春秋正義卷第九　荘公¶
 　国子&KR0021;酒上護軍曲阜縣開國子臣孔　穎逹　等奉¶
@@ -833,6 +837,8 @@
 春秋正義卷第九¶
 　　　　　　　　　計一万九千六百二十七字¶
 <pb:KR1e0003_SBCK_009-29a>¶
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB05n0584-009春秋胡氏傳-卷九.
 <pb:KR1e0003_SBCK_009-1a>¶
 春秋傳卷第九¶
 　　　莊公下¶
@@ -1156,4 +1162,3 @@
 卒書公薨子般卒慶父如齊以見其出入自如無敢討之者以示¶
 後丗其垂戒之義明且逺矣¶
 狄伐邢¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.656356
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB05n0583-010春秋正義-卷十.
 <pb:KR1e0003_SBCK_010-1a>¶
 春秋正義卷第十　闵公¶
 　　國子&KR0021;酒上䕶軍曲阜縣開囯子臣孔穎達　等奉¶
@@ -748,6 +752,8 @@
 虞受王所命之祀謂天子命虞使祀其竟内山川之神也旣滅其¶
 国故代虞祭之¶
 春秋正義&KR0195;弟十　計一万七千四百五字¶
+#+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB05n0584-010春秋胡氏傳-卷十.
 <pb:KR1e0003_SBCK_010-1a>¶
 春秋傳卷第十¶
 　　　　閔公¶
@@ -878,4 +884,3 @@
 　之末維翰能之而鄭國二三執政畏一髙克不能退之以道何政¶
 　之爲書曰鄭棄其師君臣同責也¶
 <pb:KR1e0003_SBCK_010-5b>¶
-

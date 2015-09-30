@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.479758
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB05n0583-025春秋正義-卷二十五.
 <pb:KR1e0003_SBCK_025-1a>¶
 春秋正義卷第二十五　襄公¶
 　　国子&KR0021;酒上護軍曲阜縣&KR0271;國子臣孔　頴達　等奉¶
@@ -648,6 +652,8 @@
 春秋正義卷第二十五¶
 　　　　　　　　計一万四千六百二十一字¶
 <pb:KR1e0003_SBCK_025-21b>¶
+#+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB05n0584-025春秋胡氏傳-卷二十五.
 <pb:KR1e0003_SBCK_025-1a>¶
 春秋傳卷第二十五¶
 　　　　昭公中¶
@@ -936,4 +942,3 @@
 <pb:KR1e0003_SBCK_025-10b>¶
 秋七月壬午朔日有食之八月乙亥叔輙卒冬蔡侯朱出奔楚公如¶
 &KR0051;至河乃復¶
-

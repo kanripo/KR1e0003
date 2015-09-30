@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.214811
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB05n0583-020春秋正義-卷二十.
 <pb:KR1e0003_SBCK_020-1a>¶
 未聞䘮故淂以&KR0123;行礼而傳善之傳注下有至日誤　正義曰¶
 長歷推之年正月庚戌朔其月无己亥圍宋彭城經在正月之下¶
@@ -742,6 +746,8 @@
 賦彤弓其義在扵晋君非當范匄故范匄受之而為知礼也¶
 春秋正義卷第二十¶
 　　　　　計一万七千三百二十八字¶
+#+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB05n0584-020春秋胡氏傳-卷二十.
 <pb:KR1e0003_SBCK_020-1a>¶
 春秋傳卷第二十¶
 　　　　成公下¶
@@ -1024,4 +1030,3 @@
 丑公薨于路寢冬楚人鄭人侵宋&KR0051;侯使士魴來乞師十有二月仲¶
 孫蔑㑹&KR0051;侯宋公衛侯邾子齊崔杼同盟于虚杼丁未葬我君成公¶
 <pb:KR1e0003_SBCK_020-10b>¶
-

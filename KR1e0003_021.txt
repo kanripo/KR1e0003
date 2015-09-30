@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.269805
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB05n0583-021春秋正義-卷二十一.
 <pb:KR1e0003_SBCK_021-1a>¶
 春秋正義卷第二十一　襄公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　潁逹　等奉¶
@@ -750,6 +754,8 @@
 春秋正義卷第二十一¶
 　　　　　　　　　計一万七千四百字¶
 <pb:KR1e0003_SBCK_021-24b>¶
+#+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB05n0584-021春秋胡氏傳-卷二十一.
 <pb:KR1e0003_SBCK_021-1a>¶
 春秋傳卷第二十一¶
 　　　　襄公上¶
@@ -977,4 +983,3 @@
 故三駕而楚不能與之爭雖城濮之績不越是矣¶
 <pb:KR1e0003_SBCK_021-8b>¶
 公至自㑹楚人執鄭行人良霄冬秦人伐&KR0051;¶
-

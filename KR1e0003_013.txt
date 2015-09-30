@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.812286
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB05n0583-013春秋正義-卷十三.
 <pb:KR1e0003_SBCK_013-1a>¶
 春秋正義卷第十三　僖公¶
 　　国子&KR0021;酒上護軍曲阜縣開国子臣孔穎逹等奉¶
@@ -714,6 +718,8 @@
 唯礼記毛詩有祫字耳釈天云禘大祭也則祭无大於褅者若¶
 祫大於禘禘焉淂称大乎¶
 春秋正義卷第十三¶
+#+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB05n0584-013春秋胡氏傳-卷十三.
 <pb:KR1e0003_SBCK_013-1a>¶
 春秋卷第十三¶
 　　　僖公下¶
@@ -1019,4 +1025,3 @@
 意也¶
 &KR0051;人陳人鄭人伐許¶
 <pb:KR1e0003_SBCK_013-11b>¶
-

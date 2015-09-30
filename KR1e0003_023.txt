@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.376646
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB05n0583-023春秋正義-卷二十三.
 <pb:KR1e0003_SBCK_023-1a>¶
 春秋正義卷第二十三　襄公¶
 　　國子祭酒上護軍曲阜縣開國子臣孔　穎逹　等奉¶
@@ -561,6 +565,8 @@
 春秋正義卷第二十三¶
 　　　　　　　　　　計一萬二千八百五十五字¶
 <pb:KR1e0003_SBCK_023-18b>¶
+#+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB05n0584-023春秋胡氏傳-卷二十三.
 <pb:KR1e0003_SBCK_023-1a>¶
 春秋傳卷第二十三¶
 　　　　襄公下¶
@@ -741,4 +747,3 @@
 　誤可也而傳不可信盡以爲可疑而廢傳則無以知其事之本末¶
 盡以爲可信而任傳則經之弘意大旨或泥而不通矣要在學者¶
 詳攷而精擇之可也¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.688586
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB05n0583-029春秋正義-卷二十九.
 <pb:KR1e0003_SBCK_029-1a>¶
 春秋正義&KR0195;第二十九　昭公¶
 　　　國子癸酒上護軍曲阜縣開國子臣孔　頴達　等奉¶
@@ -905,6 +909,8 @@
 　　　　　　　　　　　　　　　計二万八百六字¶
 <pb:KR1e0003_SBCK_029-29b>¶
 <pb:KR1e0003_SBCK_029-29b>¶
+#+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB05n0584-029春秋胡氏傳-卷二十九.
 <pb:KR1e0003_SBCK_029-1a>¶
 春秋傳卷第二十九¶
 　　　　哀公上¶
@@ -1055,4 +1061,3 @@
 見後書歸邾子之爲能去其惡而與之也聖人之情見矣明此然¶
 後可以操賞罰之權不明乎此以操賞罰之權而能濟者鮮矣¶
 宋人圍曹冬鄭駟&KR0042;帥師救曹¶
-

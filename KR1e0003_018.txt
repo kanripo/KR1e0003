@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.106971
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB05n0583-018春秋正義-卷十八.
 <pb:KR1e0003_SBCK_018-1a>¶
 春秋正義卷第十八　成公¶
 　　国子祭酒上護軍曲阜縣開国子臣孔　潁逹　等奉¶
@@ -735,6 +739,8 @@
 　　　　　　　　　計一万七千一百八字¶
 <pb:KR1e0003_SBCK_018-25a>¶
 <pb:KR1e0003_SBCK_018-26a>¶
+#+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB05n0584-018春秋胡氏傳-卷十八.
 <pb:KR1e0003_SBCK_018-1a>¶
 春秋傳卷第十八¶
 　　　　宣公下¶
@@ -1009,4 +1015,3 @@
 　仁者弗能也詞繁而不殺歸父之善自著矣比事以觀則見當國¶
 　者有無君之心此春秋所以作不可不察也¶
 <pb:KR1e0003_SBCK_018-10b>¶
-

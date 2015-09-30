@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:10.251667
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0583-002春秋正義-卷二.
 <pb:KR1e0003_SBCK_002-1a>¶
 春秋正義&KR0195;第二¶
 　　国子祭酒上護軍曲阜縣開国子臣孔穎達等奉¶
@@ -763,6 +767,8 @@
 其䘮亦同不書日也¶
 春秋正義卷第二¶
 　　　　　　　　　　計一万八千三百一十七字¶
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0584-002春秋胡氏傳-卷二.
 <pb:KR1e0003_SBCK_002-1a>¶
 春秋傳卷第二¶
 　　　　隱公中¶
@@ -985,4 +991,3 @@
 伯之職也戎伐凢伯于楚丘以歸見衛不救王臣之患也爲狄所¶
 滅則有由矣¶
 <pb:KR1e0003_SBCK_002-8b>¶
-

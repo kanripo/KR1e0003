@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.740124
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB05n0583-030春秋正義-卷三十.
 <pb:KR1e0003_SBCK_030-1a>¶
 春秋正義卷第三十　昭公¶
 　　　&KR0038;子祭酒上護軍曲阜縣&KR0271;&KR0038;子臣孔　頴逹　等奉¶
@@ -732,6 +736,8 @@
 紀不言敬王是猛之母弟先儒相傳說耳謚法夙夜共亊曰敬¶
 春秋正義卷第三十¶
 　　　　　　　　　　　計一万七千四百四十五字¶
+#+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB05n0584-030春秋胡氏傳-卷三十.
 <pb:KR1e0003_SBCK_030-1a>¶
 春秋傳卷第三十¶
 　　　　哀公下¶
@@ -893,4 +899,3 @@
 　有餘&KR0010;矣其書未亡其出於人心者猶在蓋有不得巳焉耳則亦¶
 　有不得巳焉耳矣¶
 <pb:KR1e0003_SBCK_030-6b>¶
-

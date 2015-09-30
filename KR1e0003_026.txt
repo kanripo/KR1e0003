@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正義
-#+DATE: 2015-09-23 09:39:14
+#+DATE: 2015-09-11 23:37:11.526653
+#+PROPERTY: ID KR1e0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB05n0583-026春秋正義-卷二十六.
 <pb:KR1e0003_SBCK_026-1a>¶
 春秋正義卷第二十六　昭公¶
 　　&KR0038;子祭酒上護軍曲阜縣&KR0271;國子臣孔　穎達　等奉¶
@@ -621,6 +625,8 @@
 　正義曰前已在竟今復徙之逺&KR0038;也¶
 　春秋正義卷第二十六¶
 　　　　　　　　　　　計一万四千六百二十一字¶
+#+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB05n0584-026春秋胡氏傳-卷二十六.
 <pb:KR1e0003_SBCK_026-1a>¶
 春秋傳卷第二十六¶
 　　　昭公下¶
@@ -937,4 +943,3 @@
 　者觀春秋所書圍成鄆潰知社稷之無常奉也亦必少警矣嗚呼¶
 　可謂深切著明者矣¶
 <pb:KR1e0003_SBCK_026-11b>¶
-
